@@ -1,0 +1,3 @@
+The below is generated access token for Jenkins integration
+
+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
